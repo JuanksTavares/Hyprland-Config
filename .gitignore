@@ -1,0 +1,15 @@
+# Arquivos temporários
+*.swp
+*~
+*.backup*
+
+# Logs
+*.log
+
+# Arquivos sensíveis (nunca commit senhas!)
+secrets.conf
+.env
+*.key
+
+# Diretórios de cache
+.cache/
